@@ -8,4 +8,4 @@ A free music website to help users chill out by listening to some good music.
 
 Seekbar is also available with an option to change songs forward or backward by using the button given.
 
-![photo](https://github.com/01DarshanPatni/Music-Player/assets/95132151/267d8d4b-e058-4a21-9091-834f9b45fd49)[image](https://github.com/01DarshanPatni/Music-Player/blob/master/photo.png)
+![photo](https://github.com/01DarshanPatni/Music-Player/assets/95132151/267d8d4b-e058-4a21-9091-834f9b45fd49)
